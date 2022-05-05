@@ -4,10 +4,10 @@
 static int topbar = 0;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Hurmit Nerd Font:size=17"
+	"GohuFont Nerd Font Mono:size=19"
 };
 
-static const char col_gray2[]       = "#222222"; /* "#ffe4b5"; */
+static const char col_gray2[]       = "#333333"; /* "#ffe4b5"; */
 static const char col_gray3[]       = "#ebdbb2";  /* "#bebebe"; */
 static const char col_gray4[]       = "#000000";
 static const char col_cyan[]        = "#444444"; /* "#deb887"; */
